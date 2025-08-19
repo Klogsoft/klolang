@@ -1,0 +1,33 @@
+print "Fibonacci numbers"
+
+a = 0
+b = 1
+
+print "First 10 Fibonacci numbers:"
+print a
+print b
+
+# Calculate next 8 numbers
+c = a + b
+print c
+
+d = b + c
+print d
+
+e = c + d
+print e
+
+f = d + e
+print f
+
+g = e + f
+print g
+
+h = f + g
+print h
+
+i = g + h
+print i
+
+j = h + i
+print j

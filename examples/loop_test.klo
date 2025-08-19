@@ -1,0 +1,6 @@
+print "For loop demo"
+
+for i in range(5):
+  print i
+
+print "Done!"

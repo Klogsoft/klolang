@@ -1,0 +1,22 @@
+print "Simple Calculator"
+
+a = 10
+b = 5
+
+sum = a + b
+diff = a - b
+product = a * b
+quotient = a / b
+
+print "a =", a
+print "b =", b
+print "Sum:", sum
+print "Difference:", diff
+print "Product:", product
+print "Quotient:", quotient
+
+if sum > 10:
+  print "Sum is greater than 10"
+
+if diff > 0:
+  print "a is greater than b"

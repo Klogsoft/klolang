@@ -1,0 +1,44 @@
+# Temporary files
+*.tmp
+.klo_temp_*.go
+.klo_temp.go
+
+# Go build artifacts
+klo
+klo.exe
+*.out
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test files
+coverage.out
+coverage.html
+
+# Log files
+*.log
+
+# Build directories
+build/
+dist/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
