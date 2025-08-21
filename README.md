@@ -471,7 +471,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🔗 Links
 
-- 🌐 **Website and Documentation**: https://klogsoft.com/klo
+- 🌐 **Website and Documentation**: https://klogsoft.com/klolang
 
 ---
 
