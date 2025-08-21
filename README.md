@@ -51,7 +51,7 @@ sudo apt install golang-go
 ### 2️⃣ Install klo
 ```bash
 # Clone the repository
-git clone https://github.com/singleservingfriend/klo.git
+git clone https://github.com/Klogsoft/klolang.git
 cd klo
 
 # Build klo
@@ -356,7 +356,7 @@ klo is **100% open source** and developed by the community! We believe in:
 ### 🎯 **How You Can Help**
 
 #### 🐛 **Report Issues**
-Found a bug? Have a suggestion? [Open an issue!](https://github.com/singleservingfriend/klo/issues)
+Found a bug? Have a suggestion? [Open an issue!](https://github.com/Klogsoft/klolang/issues)
 
 #### 💻 **Contribute Code**
 1. Fork the repository
@@ -434,8 +434,8 @@ klo/
 ## 🆘 Getting Help
 
 ### 💬 **Community Support**
-- **GitHub Issues**: [Report bugs or ask questions](https://github.com/singleservingfriend/klo/issues)
-- **Discussions**: [Community discussions](https://github.com/singleservingfriend/klo/discussions)
+- **GitHub Issues**: [Report bugs or ask questions](https://github.com/Klogsoft/klolang/issues)
+- **Discussions**: [Community discussions](https://github.com/Klogsoft/klolang/discussions)
 
 ### 📚 **Documentation**
 - **Syntax Reference**: [`docs/syntax.md`](docs/syntax.md)
